@@ -12,5 +12,5 @@ Notes, labs, and takeaways from completing the Google Cybersecurity Professional
 - [Course 4: Linux and SQL](4-linux-and-sql.md)
 - [Course 5: Assets, Threats, and Vulnerabilities](5-assets-threats-vulnerabilities.md)
 - [Course 6: Detection and Response](6-detection-and-response.md)
-- [Course 7: Automate with Python](7-automate-with-python.md)
-- [Course 8: Capstone / Job Prep](8-job-prep-capstone.md)
+- [Course 7: Automate with Python](7-python-for-cybersecurity.md)
+- [Course 8: Capstone / Job Prep](8-prepare-for-cybersecurity-jobs.md)
