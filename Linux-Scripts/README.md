@@ -1,3 +1,3 @@
 # Linux Scripts
 
-Simple Bash or Python scripts I've written while learning cybersecurity and Linux command-line skills.
+Placeholder for Bash or Python scripts related to Linux and networking. Currently this directory only contains Wireshark notes.

@@ -68,4 +68,3 @@ This course provided practical preparation for entering the cybersecurity job ma
 
 ## ✅ Completed
 Jared Weiss has officially completed Course 8 of the Google Cybersecurity Certificate, including all readings, activities, AI modules, and glossary documentation.
-"""
